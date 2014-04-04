@@ -1,0 +1,9 @@
+('/home/zkhan/source/mchlres/ndirfil/mdir/build/s_enum2/s_enum2',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1395344172)
